@@ -1,16 +1,6 @@
-## Analisando o Código e Criando um README.md Completo
+Desvendando os Municípios do Amapá- IMERSÃO DEV COM GOOGLE E GEMINI
 
-**Parabéns por criar uma aplicação funcional para pesquisar municípios do Amapá!** Vamos transformar este código em um repositório GitHub completo e bem documentado, utilizando um README.md claro e conciso.
-
-### Estrutura Proposta para o README.md
-
-**1. Título e Descrição:**
-
-```markdown
-# Desvendando os Municípios do Amapá
-
-Uma aplicação web interativa para explorar os municípios do estado do Amapá. Descubra informações detalhadas sobre cada município, incluindo localização, história e pontos turísticos.
-```
+Uma aplicação web interativa para explorar os municípios do estado do Amapá. Descubra informações detalhadas sobre cada município, incluindo localização, história e pontos turísticos.*
 
 **2. Como Funciona:**
 
